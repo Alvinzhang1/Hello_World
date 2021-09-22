@@ -9,7 +9,7 @@ Nice to meet you.
 
 # **Table of Content**
 1. Project Title
-Airbnb Booking Research
-
-3. Description
-4. A
+2. Description
+3. How to Run Program
+4. Files Used
+5. Additional Documentation
