@@ -8,6 +8,6 @@ I like sports and travelling.
 Nice to meet you.
 
 # **Table of Content**
--PROJECT TITLE
+- PROJECT TITLE
 -Description
 -A
