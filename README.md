@@ -12,7 +12,7 @@ Nice to meet you.
 2. [Description](#Description)
 3. [Tool](#Tool)
 4. [File Used](#File-Used)
-5. [Additional Documentation](#Additional-Documentation)
+5. [Additional Information](#Additional-Information)
 
 
 # Project Title
@@ -26,5 +26,5 @@ The results will show the correlation between customer satisfaction and differen
 Regression 
 # File Used
 URL links to files - http://tomslee.net/airbnb-data-collection-get-the-data
-# Additional Documentation
+# Additional Information
 For Your Information --- 
