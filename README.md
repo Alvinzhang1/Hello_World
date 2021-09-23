@@ -13,8 +13,7 @@ Nice to meet you.
 3. Tools
 4. Files Used
 5. Additional Documentation
-6. 
-[PROJECT TITLE](#PROJECT-TITLE)
+
 
 # PROJECT TITLE
 ***Airbnb Booking Research***
