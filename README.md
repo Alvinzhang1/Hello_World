@@ -9,10 +9,10 @@ Nice to meet you.
 
 # **Table of Content**
 1. [Project Title](#Project-Title) 
-2. Description
-3. Tools
-4. Files Used
-5. Additional Documentation
+2. [Description](#Description)
+3. [Tools](#Tools)
+4. [Files Used](#Files Used)
+5. [Additional Documentation](#Additional Documentation)
 
 
 # PROJECT TITLE
