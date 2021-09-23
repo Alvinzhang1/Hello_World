@@ -27,4 +27,4 @@ Regression
 # File Used
 URL links to files - http://tomslee.net/airbnb-data-collection-get-the-data
 # Additional Information
-For Your Information --- 
+For Your Information -It has low correlation between those factors and overall satisfaction
