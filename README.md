@@ -11,8 +11,8 @@ Nice to meet you.
 1. [Project Title](#Project-Title) 
 2. [Description](#Description)
 3. [Tool](#Tool)
-4. [File Used](#File Used)
-5. [Additional Documentation](#Additional Documentation)
+4. [File Used](#File-Used)
+5. [Additional Documentation](#Additional-Documentation)
 
 
 # Project Title
