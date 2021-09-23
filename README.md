@@ -8,14 +8,14 @@ I like sports and travelling.
 Nice to meet you.
 
 # **Table of Content**
-1. 「Title」Project Title
+1. Project Title
 2. Description
 3. Tools
 4. Files Used
 5. Additional Documentation
 
 # Project Title
-Airbnb Booking Research
+***Airbnb Booking Research***
 
 # Descirption
 
