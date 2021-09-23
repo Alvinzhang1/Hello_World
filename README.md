@@ -18,7 +18,7 @@ Nice to meet you.
 # Project Title
 ***Airbnb Booking Research***
 
-# Descirption
+# Description
 A lot of factors could affect airbnb’ satisfaction, such as numbers of hotels, real estate taxes, city restrictions on airbnb, or the individual characteristics of the room. 
 The results will show the correlation between customer satisfaction and different independent variables that make up the composition of Airbnb and their business model.  
 
