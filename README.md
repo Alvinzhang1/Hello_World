@@ -10,17 +10,17 @@ Nice to meet you.
 # **Table of Content**
 1. [Project Title](#Project-Title) 
 2. [Description](#Description)
-3. [Tools](#Tools)
-4. [Files Used](#Files Used)
+3. [Tool](#Tool)
+4. [File Used](#File Used)
 5. [Additional Documentation](#Additional Documentation)
 
 
-# PROJECT TITLE
+# Project Title
 ***Airbnb Booking Research***
 
 # Descirption
 
-# Tools
+# Tool
 Regression 
 # File Used
 URL links to files - http://tomslee.net/airbnb-data-collection-get-the-data
