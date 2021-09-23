@@ -22,6 +22,6 @@ Airbnb Booking Research
 # Tools
 Regression 
 # File Used
-URL links to files - 
+URL links to files - http://tomslee.net/airbnb-data-collection-get-the-data
 # Additional Documentation
 No additional documentation at this time.
