@@ -19,10 +19,12 @@ Nice to meet you.
 ***Airbnb Booking Research***
 
 # Descirption
+A lot of factors could affect airbnb’ satisfaction, such as numbers of hotels, real estate taxes, city restrictions on airbnb, or the individual characteristics of the room. 
+The results will show the correlation between customer satisfaction and different independent variables that make up the composition of Airbnb and their business model.  
 
 # Tool
 Regression 
 # File Used
 URL links to files - http://tomslee.net/airbnb-data-collection-get-the-data
 # Additional Documentation
-No additional documentation at this time.
+For Your Information --- 
